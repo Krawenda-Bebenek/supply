@@ -1,0 +1,1316 @@
+{
+    "ExchangesDef": [
+        {
+            "ExchangeId": 83,
+            "ParentId": 83,
+            "Name": "ShareThrough",
+            "Abbr": "sht",
+            "Enable": true,
+            "Ports": [
+                9071
+            ]
+        },
+        {
+            "ExchangeId": 2,
+            "ParentId": 2,
+            "Name": "AdMeld",
+            "Abbr": "adm",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 9,
+            "ParentId": 9,
+            "Name": "Rubicon",
+            "Abbr": "ruc",
+            "Enable": true,
+            "Ports": [
+                9090
+            ]
+        },
+        {
+            "ExchangeId": 121,
+            "ParentId": 121,
+            "Name": "Rubicon2",
+            "Abbr": "ruc2",
+            "Enable": true,
+            "Ports": [
+                9090
+            ],
+            "AdstxtExchgId": 9
+        },
+        {
+            "ExchangeId": 13,
+            "ParentId": 13,
+            "Name": "AppNexus",
+            "Abbr": "apn",
+            "Enable": true,
+            "Ports": [
+                9120
+            ]
+        },
+        {
+            "ExchangeId": 4,
+            "ParentId": 4,
+            "Name": "AdExchange",
+            "Abbr": "adx",
+            "Enable": true,
+            "Ports": [
+                9060,
+                9061
+            ]
+        },
+        {
+            "ExchangeId": 3,
+            "ParentId": 3,
+            "Name": "PubMatic",
+            "Abbr": "pub",
+            "Enable": true,
+            "Ports": [
+                9050
+            ]
+        },
+        {
+            "ExchangeId": 5,
+            "ParentId": 5,
+            "Name": "OpenX",
+            "Abbr": "opx",
+            "Enable": true,
+            "Ports": [
+                9170,
+                9131
+            ]
+        },
+        {
+            "ExchangeId": 10,
+            "ParentId": 10,
+            "Name": "RightMedia",
+            "Abbr": "rmx",
+            "Enable": true,
+            "Ports": []
+        },
+        {
+            "ExchangeId": 11,
+            "ParentId": 11,
+            "Name": "ContextWeb",
+            "Abbr": "ctw",
+            "Enable": true,
+            "Ports": [
+                9110
+            ]
+        },
+        {
+            "ExchangeId": 12,
+            "ParentId": 12,
+            "Name": "PremiumMarket",
+            "Abbr": "prm",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 7,
+            "ParentId": 7,
+            "Name": "GenericInterface",
+            "Abbr": "gic",
+            "Enable": true,
+            "Ports": [
+                80,
+                9040,
+                9050,
+                9060,
+                9061,
+                9071,
+                9080,
+                9090,
+                9100,
+                9110,
+                9120,
+                9130,
+                9140,
+                9150,
+                9160,
+                9170,
+                9171
+            ]
+        },
+        {
+            "ExchangeId": 14,
+            "ParentId": 14,
+            "Name": "MM AdServer",
+            "Abbr": "mma",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 18,
+            "ParentId": 18,
+            "Name": "LifeStreet",
+            "Abbr": "lsx",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 15,
+            "ParentId": 15,
+            "Name": "Casale",
+            "Abbr": "cas",
+            "Enable": true,
+            "Ports": [
+                9130
+            ]
+        },
+        {
+            "ExchangeId": 16,
+            "ParentId": 16,
+            "Name": "ImproveDigital",
+            "Abbr": "ipv",
+            "Enable": true,
+            "Ports": [
+                9130
+            ]
+        },
+        {
+            "ExchangeId": 17,
+            "ParentId": 17,
+            "Name": "Lijit",
+            "Abbr": "lij",
+            "Enable": true,
+            "Ports": [
+                9130,
+                9131
+            ]
+        },
+        {
+            "ExchangeId": 19,
+            "ParentId": 19,
+            "Name": "AdJug",
+            "Abbr": "adj",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 20,
+            "ParentId": 20,
+            "Name": "Criteo",
+            "Abbr": "cri",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 21,
+            "ParentId": 21,
+            "Name": "AdTech",
+            "Abbr": "adt",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 22,
+            "ParentId": 22,
+            "Name": "NexAge",
+            "Abbr": "nxg",
+            "Enable": true,
+            "Ports": [
+                9100
+            ]
+        },
+        {
+            "ExchangeId": 23,
+            "ParentId": 23,
+            "Name": "Facebook",
+            "Abbr": "fbx",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 24,
+            "ParentId": 24,
+            "Name": "SpecificMedia",
+            "Abbr": "spm",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 25,
+            "ParentId": 25,
+            "Name": "BurstMedia",
+            "Abbr": "btm",
+            "Enable": true,
+            "Ports": [
+                9130
+            ]
+        },
+        {
+            "ExchangeId": 26,
+            "ParentId": 26,
+            "Name": "AdScale",
+            "Abbr": "ads",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 30001,
+            "ParentId": 30001,
+            "Name": "Robotic",
+            "Abbr": "tst",
+            "Enable": false,
+            "Ports": [
+                30001
+            ]
+        },
+        {
+            "ExchangeId": 28,
+            "ParentId": 28,
+            "Name": "Zenovia",
+            "Abbr": "zdx",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 29,
+            "ParentId": 29,
+            "Name": "Switch",
+            "Abbr": "swi",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 36,
+            "ParentId": 36,
+            "Name": "LiveIntent",
+            "Abbr": "lvi",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 37,
+            "ParentId": 37,
+            "Name": "Admeta",
+            "Abbr": "amt",
+            "Enable": true,
+            "Ports": [
+                9150
+            ]
+        },
+        {
+            "ExchangeId": 38,
+            "ParentId": 38,
+            "Name": "Kauli",
+            "Abbr": "kli",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 39,
+            "ParentId": 39,
+            "Name": "SmartAdserver",
+            "Abbr": "sas",
+            "Enable": true,
+            "Ports": [
+                9100
+            ]
+        },
+        {
+            "ExchangeId": 30,
+            "ParentId": 30,
+            "Name": "Spotxchange",
+            "Abbr": "sxc",
+            "Enable": true,
+            "Ports": [
+                9170,
+                9172
+            ]
+        },
+        {
+            "ExchangeId": 31,
+            "ParentId": 31,
+            "Name": "Adap.tv",
+            "Abbr": "atv",
+            "Enable": true,
+            "Ports": [
+                9170
+            ]
+        },
+        {
+            "ExchangeId": 32,
+            "ParentId": 32,
+            "Name": "BrightRollExchange",
+            "Abbr": "brx",
+            "Enable": true,
+            "Ports": [
+                9171
+            ]
+        },
+        {
+            "ExchangeId": 34,
+            "ParentId": 34,
+            "Name": "Liverail",
+            "Abbr": "liv",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 40,
+            "ParentId": 40,
+            "Name": "Adingo",
+            "Abbr": "adn",
+            "Enable": true,
+            "Ports": [
+                9160
+            ]
+        },
+        {
+            "ExchangeId": 41,
+            "ParentId": 41,
+            "Name": "Videology",
+            "Abbr": "vog",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 42,
+            "ParentId": 42,
+            "Name": "Sonobi",
+            "Abbr": "son",
+            "Enable": true,
+            "Ports": [
+                9160
+            ]
+        },
+        {
+            "ExchangeId": 43,
+            "ParentId": 43,
+            "Name": "MediaMathSupply",
+            "Abbr": "mms",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 44,
+            "ParentId": 44,
+            "Name": "StickyAds",
+            "Abbr": "sta",
+            "Enable": true,
+            "Ports": [
+                9170
+            ]
+        },
+        {
+            "ExchangeId": 45,
+            "ParentId": 45,
+            "Name": "Geniee",
+            "Abbr": "gen",
+            "Enable": true,
+            "Ports": [
+                9160,
+                9131
+            ]
+        },
+        {
+            "ExchangeId": 46,
+            "ParentId": 46,
+            "Name": "BidSwitch",
+            "Abbr": "bsw",
+            "Enable": true,
+            "Ports": [
+                9160
+            ]
+        },
+        {
+            "ExchangeId": 51,
+            "ParentId": 51,
+            "Name": "TripleLift",
+            "Abbr": "trl",
+            "Enable": true,
+            "Ports": [
+                9071
+            ]
+        },
+        {
+            "ExchangeId": 49,
+            "ParentId": 49,
+            "Name": "AdChina",
+            "Abbr": "adc",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 50,
+            "ParentId": 50,
+            "Name": "SmartClip",
+            "Abbr": "scp",
+            "Enable": true,
+            "Ports": [
+                9160
+            ]
+        },
+        {
+            "ExchangeId": 54,
+            "ParentId": 54,
+            "Name": "GenericOpenRtb",
+            "Abbr": "gor",
+            "Enable": true,
+            "Ports": [
+                9180,
+                9181
+            ]
+        },
+        {
+            "ExchangeId": 90,
+            "ParentId": 90,
+            "Name": "MopubDirect",
+            "Abbr": "mpd",
+            "Enable": true,
+            "Ports": [9030]
+        },
+        {
+            "ExchangeId": 117,
+            "ParentId": 117,
+            "Name": "PlaceExchange",
+            "Abbr": "int",
+            "Enable": true,
+            "Ports": [
+                9071
+            ]
+        },
+        {
+            "ExchangeId": 57,
+            "ParentId": 54,
+            "Name": "SelfService1",
+            "Abbr": "ss1",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 58,
+            "ParentId": 54,
+            "Name": "SelfService2",
+            "Abbr": "ss2",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 59,
+            "ParentId": 54,
+            "Name": "SelfService3",
+            "Abbr": "ss3",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 60,
+            "ParentId": 54,
+            "Name": "SelfService4",
+            "Abbr": "ss4",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 61,
+            "ParentId": 54,
+            "Name": "SelfService5",
+            "Abbr": "ss5",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 62,
+            "ParentId": 54,
+            "Name": "SelfService6",
+            "Abbr": "ss6",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 63,
+            "ParentId": 54,
+            "Name": "SelfService7",
+            "Abbr": "ss7",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 64,
+            "ParentId": 54,
+            "Name": "SelfService8",
+            "Abbr": "ss8",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 65,
+            "ParentId": 54,
+            "Name": "SelfService9",
+            "Abbr": "ss9",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 66,
+            "ParentId": 54,
+            "Name": "SelfService10",
+            "Abbr": "ss10",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 67,
+            "ParentId": 54,
+            "Name": "SelfService11",
+            "Abbr": "ss11",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 68,
+            "ParentId": 54,
+            "Name": "SelfService12",
+            "Abbr": "ss12",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 69,
+            "ParentId": 54,
+            "Name": "SelfService13",
+            "Abbr": "ss13",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 70,
+            "ParentId": 54,
+            "Name": "SelfService14",
+            "Abbr": "ss14",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 71,
+            "ParentId": 54,
+            "Name": "SelfService15",
+            "Abbr": "ss15",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 72,
+            "ParentId": 54,
+            "Name": "SelfService16",
+            "Abbr": "ss16",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 73,
+            "ParentId": 54,
+            "Name": "SelfService17",
+            "Abbr": "ss17",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 74,
+            "ParentId": 54,
+            "Name": "SelfService18",
+            "Abbr": "ss18",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 75,
+            "ParentId": 54,
+            "Name": "SelfService19",
+            "Abbr": "ss19",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 76,
+            "ParentId": 54,
+            "Name": "SelfService20",
+            "Abbr": "ss20",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 78,
+            "ParentId": 54,
+            "Name": "SelfService21",
+            "Abbr": "ss21",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 79,
+            "ParentId": 54,
+            "Name": "SelfService22",
+            "Abbr": "ss22",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 80,
+            "ParentId": 54,
+            "Name": "SelfService23",
+            "Abbr": "ss23",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 81,
+            "ParentId": 54,
+            "Name": "SelfService24",
+            "Abbr": "ss24",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 82,
+            "ParentId": 54,
+            "Name": "SelfService25",
+            "Abbr": "ss25",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 86,
+            "ParentId": 54,
+            "Name": "SelfService29",
+            "Abbr": "ss29",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 87,
+            "ParentId": 54,
+            "Name": "SelfService30",
+            "Abbr": "ss30",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 89,
+            "ParentId": 54,
+            "Name": "SelfService32",
+            "Abbr": "ss32",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 91,
+            "ParentId": 54,
+            "Name": "SelfService34",
+            "Abbr": "ss34",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 92,
+            "ParentId": 54,
+            "Name": "SelfService35",
+            "Abbr": "ss35",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 94,
+            "ParentId": 54,
+            "Name": "SelfService37",
+            "Abbr": "ss37",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 95,
+            "ParentId": 54,
+            "Name": "SelfService38",
+            "Abbr": "ss38",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 96,
+            "ParentId": 54,
+            "Name": "SelfService39",
+            "Abbr": "ss39",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 97,
+            "ParentId": 54,
+            "Name": "SelfService40",
+            "Abbr": "ss40",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 98,
+            "ParentId": 54,
+            "Name": "SelfService41",
+            "Abbr": "ss41",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 77,
+            "ParentId": 46,
+            "Name": "Teads",
+            "Abbr": "tea",
+            "Ports": [],
+            "AdstxtExchgId": 77,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 6,
+            "ParentId": 13,
+            "Name": "Microsoft",
+            "Abbr": "max",
+            "Ports": [],
+            "AdstxtExchgId": 13
+        },
+        {
+            "ExchangeId": 27,
+            "ParentId": 10,
+            "Name": "Yahoo",
+            "Abbr": "yho",
+            "Enable": true,
+            "Ports": [
+                9140
+            ]
+        },
+        {
+            "ExchangeId": 35,
+            "ParentId": 46,
+            "Name": "YieldOne",
+            "Abbr": "yon",
+            "Ports": [],
+            "AdstxtExchgId": 35,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 47,
+            "ParentId": 46,
+            "Name": "YieldLab",
+            "Abbr": "ylb",
+            "Ports": [],
+            "AdstxtExchgId": 47,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 48,
+            "ParentId": 46,
+            "Name": "Falk",
+            "Abbr": "flk",
+            "Ports": [],
+            "AdstxtExchgId": 48,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 55,
+            "ParentId": 46,
+            "Name": "Mopub",
+            "Abbr": "mpb",
+            "Ports": [],
+            "AdstxtExchgId": 55,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 52,
+            "ParentId": 46,
+            "Name": "Adform",
+            "Abbr": "afm",
+            "Ports": [],
+            "AdstxtExchgId": 52,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 53,
+            "ParentId": 46,
+            "Name": "Xrost",
+            "Abbr": "xrt",
+            "Ports": [],
+            "AdstxtExchgId": 53,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 112,
+            "ParentId": 54,
+            "Name": "ss-DailyMotion",
+            "Abbr": "ss112",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 113,
+            "ParentId": 54,
+            "Name": "ss-PowerLinks",
+            "Abbr": "ss113",
+            "Ports": [],
+            "AdstxtExchgId": 113,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id",
+            "AdstxtSspDomainField": "ext.ads_txt.ssp_domain",
+            "AdstxtSspDomainExchgIdMap": "smartadserver.com=39;purch.com=66;powerlinks.com=113;aerserv.com=82;taboola.com=226;adyoulike.com=188;nativo.com=114;ligatus.com=177;fyber.com=48;adcolony.com=69;improvedigital.com=16;mobfox.com=46;kargo.com=65;yieldmo.com=76;liveintent.com=36;my6sense.com=113;teads.tv=72"
+        },
+        {
+            "ExchangeId": 114,
+            "ParentId": 54,
+            "Name": "ss-Nativo",
+            "Abbr": "ss114",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 115,
+            "ParentId": 54,
+            "Name": "ss-JCDecaux",
+            "Abbr": "ss115",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 116,
+            "ParentId": 54,
+            "Name": "ss-GameLoft",
+            "Abbr": "ss116",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 118,
+            "ParentId": 54,
+            "Name": "ss-YieldLabDirect",
+            "Abbr": "ss118",
+            "Ports": [],
+            "AdstxtExchgId": 47
+        },
+        {
+            "ExchangeId": 88,
+            "ParentId": 54,
+            "Name": "ss-LKQD",
+            "Abbr": "ss31",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 119,
+            "ParentId": 54,
+            "Name": "ss-outcon",
+            "Abbr": "ss119",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 120,
+            "ParentId": 54,
+            "Name": "ss-vistar",
+            "Abbr": "ss120",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 888,
+            "ParentId": 54,
+            "Name": "ss-Prodmon",
+            "Abbr": "ss888",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 199,
+            "ParentId": 46,
+            "Name": "DotDash",
+            "Abbr": "aa199",
+            "Ports": [],
+            "AdstxtExchgId": 199,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 200,
+            "ParentId": 46,
+            "Name": "Broadsign",
+            "Abbr": "bs200",
+            "Ports": [],
+            "AdstxtExchgId": 200,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 201,
+            "ParentId": 46,
+            "Name": "Genesis",
+            "Abbr": "bs201",
+            "Ports": [],
+            "AdstxtExchgId": 201,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 215,
+            "ParentId": 46,
+            "Name": "Adman",
+            "Abbr": "bs215",
+            "Ports": [],
+            "AdstxtExchgId": 215,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 213,
+            "ParentId": 46,
+            "Name": "AdColony",
+            "Abbr": "bs213",
+            "Ports": [],
+            "AdstxtExchgId": 213,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 202,
+            "ParentId": 54,
+            "Name": "ss-stroeer",
+            "Abbr": "ss202",
+            "Ports": [],
+            "AdstxtExchgId": 26
+        },
+        {
+            "ExchangeId": 216,
+            "ParentId": 46,
+            "Name": "OneTag",
+            "Abbr": "bs216",
+            "Ports": [],
+            "AdstxtExchgId": 216,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 218,
+            "ParentId": 46,
+            "Name": "Kargo",
+            "Abbr": "bs218",
+            "Ports": [],
+            "AdstxtExchgId": 218,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 219,
+            "ParentId": 46,
+            "Name": "Nexstar Digital",
+            "Abbr": "bs220",
+            "Ports": [],
+            "AdstxtExchgId": 219,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 220,
+            "ParentId": 46,
+            "Name": "LoopMe",
+            "Abbr": "bs221",
+            "Ports": [],
+            "AdstxtExchgId": 220,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 221,
+            "ParentId": 46,
+            "Name": "Media.net",
+            "Abbr": "bs224",
+            "Ports": [],
+            "AdstxtExchgId": 221,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 226,
+            "ParentId": 46,
+            "Name": "Taboola",
+            "Abbr": "bs226",
+            "Ports": [],
+            "AdstxtExchgId": 226,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 227,
+            "ParentId": 46,
+            "Name": "Smaato",
+            "Abbr": "bs227",
+            "Ports": [],
+            "AdstxtExchgId": 227,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 238,
+            "ParentId": 46,
+            "Name": "EMX",
+            "Abbr": "bs238",
+            "Ports": [],
+            "AdstxtExchgId": 238,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 239,
+            "ParentId": 46,
+            "Name": "BounceX",
+            "Abbr": "bs239",
+            "Ports": [],
+            "AdstxtExchgId": 239,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 241,
+            "ParentId": 46,
+            "Name": "Global",
+            "Abbr": "bs241",
+            "Ports": [],
+            "AdstxtExchgId": 241,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 242,
+            "ParentId": 46,
+            "Name": "PulsePoint",
+            "Abbr": "bs242",
+            "Ports": [],
+            "AdstxtExchgId": 242,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 251,
+            "ParentId": 46,
+            "Name": "Stroeer",
+            "Abbr": "bs251",
+            "Ports": [],
+            "AdstxtExchgId": 251,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 255,
+            "ParentId": 46,
+            "Name": "SuperAwesome",
+            "Abbr": "bs255",
+            "Ports": [],
+            "AdstxtExchgId": 255,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 256,
+            "ParentId": 46,
+            "Name": "InMobi",
+            "Abbr": "bs256",
+            "Ports": [],
+            "AdstxtExchgId": 256,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 257,
+            "ParentId": 46,
+            "Name": "Goldbach",
+            "Abbr": "bs257",
+            "Ports": [],
+            "AdstxtExchgId": 257,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 259,
+            "ParentId": 46,
+            "Name": "Colossus",
+            "Abbr": "bs259",
+            "Ports": [],
+            "AdstxtExchgId": 259,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 260,
+            "ParentId": 46,
+            "Name": "ironSource",
+            "Abbr": "bs260",
+            "Ports": [],
+            "AdstxtExchgId": 260,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 261,
+            "ParentId": 46,
+            "Name": "PubNative",
+            "Abbr": "bs261",
+            "Ports": [],
+            "AdstxtExchgId": 261,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 262,
+            "ParentId": 46,
+            "Name": "YOC",
+            "Abbr": "bs262",
+            "Ports": [],
+            "AdstxtExchgId": 262,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 264,
+            "ParentId": 46,
+            "Name": "Axonix",
+            "Abbr": "bs264",
+            "Ports": [],
+            "AdstxtExchgId": 264,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 265,
+            "ParentId": 46,
+            "Name": "Adagio",
+            "Abbr": "bs265",
+            "Ports": [],
+            "AdstxtExchgId": 265,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 270,
+            "ParentId": 54,
+            "Name": "Discovery",
+            "Abbr": "bs270",
+            "Ports": [],
+            "AdstxtExchgId": 270,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 276,
+            "ParentId": 54,
+            "Name": "Improve",
+            "Abbr": "impr",
+            "Ports": [],
+            "AdstxtExchgId": 16,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 278,
+            "ParentId": 46,
+            "Name": "Ad Generation",
+            "Abbr": "bs278",
+            "Ports": [],
+            "AdstxtExchgId": 278,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 279,
+            "ParentId": 46,
+            "Name": "Brand Advance",
+            "Abbr": "bs279",
+            "Ports": [],
+            "AdstxtExchgId": 279,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 280,
+            "ParentId": 46,
+            "Name": "ConnectAd",
+            "Abbr": "bs280",
+            "Ports": [],
+            "AdstxtExchgId": 280,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 281,
+            "ParentId": 46,
+            "Name": "Fyber",
+            "Abbr": "bs281",
+            "Ports": [],
+            "AdstxtExchgId": 281,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 282,
+            "ParentId": 46,
+            "Name": "Lemma",
+            "Abbr": "bs282",
+            "Ports": [],
+            "AdstxtExchgId": 282,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 283,
+            "ParentId": 46,
+            "Name": "Mobfox",
+            "Abbr": "bs283",
+            "Ports": [],
+            "AdstxtExchgId": 283,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 284,
+            "ParentId": 46,
+            "Name": "Aja Ameba",
+            "Abbr": "bs284",
+            "Ports": [],
+            "AdstxtExchgId": 284,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 285,
+            "ParentId": 46,
+            "Name": "Between Digital",
+            "Abbr": "bs285",
+            "Ports": [],
+            "AdstxtExchgId": 285,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 286,
+            "ParentId": 46,
+            "Name": "Converge Digital",
+            "Abbr": "bs286",
+            "Ports": [],
+            "AdstxtExchgId": 286,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 287,
+            "ParentId": 46,
+            "Name": "Gamma",
+            "Abbr": "bs287",
+            "Ports": [],
+            "AdstxtExchgId": 287,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 288,
+            "ParentId": 46,
+            "Name": "MicroAd",
+            "Abbr": "bs288",
+            "Ports": [],
+            "AdstxtExchgId": 288,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 289,
+            "ParentId": 46,
+            "Name": "ProfitX",
+            "Abbr": "bs289",
+            "Ports": [],
+            "AdstxtExchgId": 289,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 290,
+            "ParentId": 46,
+            "Name": "Third Presence",
+            "Abbr": "bs290",
+            "Ports": [],
+            "AdstxtExchgId": 290,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 291,
+            "ParentId": 46,
+            "Name": "Ogury",
+            "Abbr": "bs291",
+            "Ports": [],
+            "AdstxtExchgId": 291,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 293,
+            "ParentId": 46,
+            "Name": "MediaGrid",
+            "Abbr": "bs293",
+            "Ports": [],
+            "AdstxtExchgId": 293,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 294,
+            "ParentId": 46,
+            "Name": "Beachfront",
+            "Abbr": "bs294",
+            "Ports": [],
+            "AdstxtExchgId": 294,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 296,
+            "ParentId": 46,
+            "Name": "Vidoomy",
+            "Abbr": "bs296",
+            "Ports": [],
+            "AdstxtExchgId": 296,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 297,
+            "ParentId": 54,
+            "Name": "Fluct",
+            "Abbr": "flc",
+            "Ports": []
+        },
+        {
+            "ExchangeId": 298,
+            "ParentId": 46,
+            "Name": "AdYouLike",
+            "Abbr": "bs298",
+            "Ports": [],
+            "AdstxtExchgId": 298,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        },
+        {
+            "ExchangeId": 299,
+            "ParentId": 46,
+            "Name": "PRODOOH",
+            "Abbr": "bs299",
+            "Ports": [],
+            "AdstxtExchgId": 299,
+            "AdstxtPubIdField": "ext.ads_txt.pub_id"
+        }
+    ]
+}
